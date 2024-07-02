@@ -1,0 +1,38 @@
+
+#CounterLabel{
+    display: block;
+    color: red;
+    text-align: center;
+    font-size: 9em;
+}
+.full-box{
+    border: solid;
+    width: 500px;
+    height: 360px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+
+}
+.container{
+    display: block;
+    margin: 20px;
+    text-align: center;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    background-color: rgb(0, 179, 255);
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    border: 0cap;
+}
+button:hover{
+    border-color: rgb(108, 129, 156);
+    background-color: rgb(24, 92, 108);
+    color: white;
+}
